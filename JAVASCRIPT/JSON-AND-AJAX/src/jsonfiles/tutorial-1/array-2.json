@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Robert E Kahn",
+    "hobby" : "connecting people",
+    "preferences": {
+      "likes": ["computer", "global networks", "free access to knowledge"],
+      "dislikes": ["spam", "predicting the future", "YouTube videos of kitten"]
+    }
+  },
+  {
+    "name": "Steve Jobbs",
+    "hobby" : "implementing the Zen",
+    "preferences": {
+      "likes": ["apple", "lazy people", "to invent new industries"],
+      "dislikes": ["apple", "carrying many gadgets", "waisting time"]
+    }
+  },
+  {
+    "name": "Elon Musk",
+    "hobby" : "changing the world",
+    "preferences": {
+      "likes": ["changing the rules", "invent what is needed", "living on the mars"],
+      "dislikes": ["limitations", "non-limited AI", "saying I can't"]
+    }
+  }
+]

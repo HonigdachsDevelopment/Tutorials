@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Leonardo da vinci",
+    "hobby" : "creating beautiful things",
+    "preferences": {
+      "likes": ["inventing stuff", "painting", "possibly flying vehicles"],
+      "dislikes": ["going to church", "leave people burried", "the middle age"]
+    }
+  },
+  {
+    "name": "Isaak Newton",
+    "hobby" : "throwing stuff from heights",
+    "preferences": {
+      "likes": ["apples", "gravitation", "heavy things"],
+      "dislikes": ["flat earth", "alchemists", "feathers"]
+    }
+  },
+  {
+    "name": "Johann Gutenberg",
+    "hobby" : "printing out Hello World",
+    "preferences": {
+      "likes": ["press works", "free speech", "evangelism"],
+      "dislikes": ["censorship", "handwriting", "elite"]
+    }
+  }
+]

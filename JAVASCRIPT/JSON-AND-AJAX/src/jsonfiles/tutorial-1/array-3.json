@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Phil",
+    "hobbies" : "building and destroying things",
+    "preferences": {
+      "likes": ["learning cool things", "building cool stuff", "destroying useless things"],
+      "dislikes": ["limitations", "stupid rules", "saying: I don't know"]
+    }
+  },
+  {
+    "name": "Honey Badger",
+    "hobbies" : "chasing and hunting",
+    "preferences": {
+      "likes": ["Challenges", "chasing new technology", "hunting cobra"],
+      "dislikes": ["scaredy cats", "slow process", "saying I fear that..."]
+    }
+  },
+  {
+    "name": "Apeman",
+    "hobbies" : "doing crazy stuff",
+    "preferences": {
+      "likes": ["banana", "releasing inner child", "make fun of serious people"],
+      "dislikes": ["serious people", "boring situations", "saying I think im too old for"]
+    }
+  }
+]
